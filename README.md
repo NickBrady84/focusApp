@@ -1,2 +1,2 @@
 # focusApp
-#Terms Terms Terms
+Terms Terms Terms
